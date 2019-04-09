@@ -143,8 +143,8 @@ int main()
 			cout<<endl<<"Good Category is "<<obj[i].get_category();
 			cout<<endl<<"Good Company is "<<obj[i].get_company();
 			cout<<endl<<"Good Shipment is through "<<obj[i].get_shipment();
-		cout<<endl<<"Good Shipment status is "<<obj[i].get_shipment_status();
-		cout<<endl<<"Good Shipment date is "<<obj[i].get_shipment_date();
+			cout<<endl<<"Good Shipment status is "<<obj[i].get_shipment_status();
+			cout<<endl<<"Good Shipment date is "<<obj[i].get_shipment_date();
 		}
 		else
 		{
